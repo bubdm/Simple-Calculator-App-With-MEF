@@ -1,0 +1,6 @@
+D:\Projects\NijuCalculator\NijuCalculator\bin\Debug\NijuCalculator.exe.config
+D:\Projects\NijuCalculator\NijuCalculator\bin\Debug\NijuCalculator.exe
+D:\Projects\NijuCalculator\NijuCalculator\bin\Debug\NijuCalculator.pdb
+D:\Projects\NijuCalculator\NijuCalculator\obj\Debug\NijuCalculator.csprojResolveAssemblyReference.cache
+D:\Projects\NijuCalculator\NijuCalculator\obj\Debug\NijuCalculator.exe
+D:\Projects\NijuCalculator\NijuCalculator\obj\Debug\NijuCalculator.pdb

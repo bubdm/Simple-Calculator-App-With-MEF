@@ -1,0 +1,5 @@
+D:\Projects\NijuCalculator\NijuCalculator\Plugins\ModulusModule.dll
+D:\Projects\NijuCalculator\NijuCalculator\Plugins\ModulusModule.pdb
+D:\Projects\NijuCalculator\ModulusModule\obj\Debug\ModulusModule.dll
+D:\Projects\NijuCalculator\ModulusModule\obj\Debug\ModulusModule.pdb
+D:\Projects\NijuCalculator\ModulusModule\obj\Debug\ModulusModule.csprojResolveAssemblyReference.cache

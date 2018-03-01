@@ -1,0 +1,5 @@
+D:\Projects\NijuCalculator\NijuCalculator\Plugins\DivivsionModule.dll
+D:\Projects\NijuCalculator\NijuCalculator\Plugins\DivivsionModule.pdb
+D:\Projects\NijuCalculator\DivivsionModule\obj\Debug\DivivsionModule.csprojResolveAssemblyReference.cache
+D:\Projects\NijuCalculator\DivivsionModule\obj\Debug\DivivsionModule.dll
+D:\Projects\NijuCalculator\DivivsionModule\obj\Debug\DivivsionModule.pdb
